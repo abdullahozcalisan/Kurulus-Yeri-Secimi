@@ -1,0 +1,27 @@
+strtolower "buyuk harflerı kucultur metinde"
+strtoupper "kucuk harflerı buyultur metınde"
+ucwords "kelımelerdekı ılk harflerı buyuk yazar"
+ucfirst "metnin basındaki harfı buyutur"
+strlen "metnın uzunlugunu gosterır"
+substr belli aralıga kadar metnı boler
+
+
+
+diziler
+ 	sort	 "kucukten buyuge dogru sıralar"
+ 	rsort	 "buyukten kucuge"
+ 	in_array	 "dizinin icinde elemanı kontrol eder var mı yok mu varsa 1 doner "
+ 	implode	 "dizi degiskenlerini birlestrir diziden cıkar degısken"
+ 	explode		"degıskenlerı parcalar dizi halıne getırır"
+
+
+ date_default_timezone_set('Europe/Istanbul'); 
+ date("d-m-y h:i:s");
+ ,
+
+
+ 
+
+ https://www.phpr.org/php-cookie-cerezler/ ;
+
+
